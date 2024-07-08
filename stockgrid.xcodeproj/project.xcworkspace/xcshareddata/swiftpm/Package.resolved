@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "stocksapi",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Learnin-IOS/StocksAPI.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "55d8f7c478845ad7bf278f6903d3531d0cd2ea14"
+      }
+    }
+  ],
+  "version" : 2
+}
